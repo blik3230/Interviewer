@@ -1,2 +1,0 @@
-# Interviewer
-Created with CodeSandbox
